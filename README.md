@@ -1,2 +1,2 @@
-# testApp
-This repository is used for test repository for iOS
+# EA-AnroidIOSTnE-APP
+This reppository is used for test repository for iOS
