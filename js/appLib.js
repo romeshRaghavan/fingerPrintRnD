@@ -40,10 +40,7 @@ var app = {
 			 goBackEvent();
 		  }, false);
 		  validateValidMobileUser();
-		  window.plugins.touchid.isAvailable(
-			  function() {alert('available!')}, // success handler: TouchID available 
- 			 function(msg) {alert('not available, message: ' + msg)} // error handler: no TouchID available 
-			);
+		 
 		  }
 };
 
