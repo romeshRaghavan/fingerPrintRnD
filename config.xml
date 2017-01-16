@@ -52,7 +52,7 @@
     <gap:plugin name="cordova-plugin-splashscreen" source="npm" />
     <gap:plugin name="cordova-plugin-vibration" source="npm" />
 	<gap:plugin name="cordova-plugin-imagepicker" source="npm"/> -->
-    <gap:plugin name="cordova-plugin-fingerprint-id" source="npm" />
+    
     <gap:plugin name="cordova-plugin-android-fingerprint-auth" source="npm" />
     <gap:plugin name="cordova-plugin-battery-status" source="npm" />
     <gap:plugin name="cordova-plugin-camera" source="npm" />
