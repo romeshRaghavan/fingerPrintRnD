@@ -40,7 +40,7 @@ var app = {
 			 goBackEvent();
 		  }, false);
 		  validateValidMobileUser();
-		 
+		   FingerprintAuth.isAvailable(alert("isAvailable"), alert("not isAvailable"));	 
 		  }
 };
 
